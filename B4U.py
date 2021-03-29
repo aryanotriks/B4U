@@ -38,8 +38,7 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    4RY4N0 D3V1L
-   ▄︻̷̿┻̿═━一
-   THE ANONYMOUS 4RY4N0 TRICKER 
+   4RY4N0 TRICKER 
    THE LEGEND ℒℴνℯ
    THE GAME CHANGER ℒℴνℯ
    pakistani hackers
